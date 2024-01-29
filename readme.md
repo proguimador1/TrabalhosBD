@@ -1,0 +1,1 @@
+Trabalhos feitos para a disciplina de Banco de Dados, em parceria com Senapinheiro.
